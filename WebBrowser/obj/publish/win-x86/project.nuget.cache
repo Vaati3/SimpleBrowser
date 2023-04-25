@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xhltm01jYxix08Ftttbj/NyyBppvaghjwTqWVwNUcQRGwA0TvPDODG5ElkzbBPxnLL+yp+Ly23+VJq6MzPzIQw==",
+  "success": true,
+  "projectFilePath": "H:\\HONORIN\\WEBSITE\\WebBrowser\\WebBrowser\\WebBrowser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nay\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.4\\microsoft.netcore.app.runtime.win-x86.3.1.4.nupkg.sha512",
+    "C:\\Users\\Nay\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.4\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.4.nupkg.sha512",
+    "C:\\Users\\Nay\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.4\\microsoft.aspnetcore.app.runtime.win-x86.3.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
